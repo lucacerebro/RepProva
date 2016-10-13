@@ -10,4 +10,9 @@
 	9+874551
 	
 	end second commit
+<<<<<<< HEAD
+=======
+	
+	third commit
+>>>>>>> third commit
 	
